@@ -1,0 +1,3 @@
+407235049 CCU-CSIE-2TH-Pang Mao Hsiang
+In order to implement the merge sorting algorithm, there is a lot of ways to achieve that. Today I must choose the example in the text book to get AC in my homework. As a result, now  I will start to explain the program, which the interative is used.
+After input all of the data ito the program. They will be stored into the array first. Next, there is a function called 'merge_sort',which used to cut the array into the same size of array. However, by doing that,each of the same size of the array will start to be sorted ,then , the size of array will be multiply 2 to do more sort util the size of array is reached the original one.Then there is a function called find which is used to find the minimum gap in the sorted array.

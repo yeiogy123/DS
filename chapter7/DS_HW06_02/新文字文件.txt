@@ -1,0 +1,2 @@
+407235049 CCU-CSIE-2TH-Pang Mao Hsiang
+This sorting program will be use in selection sorting algorithm. First of all, the program will assign the first data in the array to be the min vlaue of all the array , if there exist another number which is smaller then it, it will be swap with that number and finally print all of the data in the index.And next the second,the third.....and still on. util all of the number be assigned , the program will be sorted by accessennding order.
